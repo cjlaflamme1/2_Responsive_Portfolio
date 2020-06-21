@@ -4,6 +4,12 @@
     font-family: 'Roboto Mono', monospace, sans-serif;
 }
 
+/* background image */
+
+body {
+    background-image: url("./images/background-cement-concrete-paint-242236.jpg");
+}
+
 /* Navbar */
 
 nav > span.navname {
