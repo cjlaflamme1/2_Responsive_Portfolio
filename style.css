@@ -24,3 +24,12 @@ nav ul li.nav-item {
 nav.navbar {
     border-bottom: 2px solid rgba(55, 55, 252, 0.75);
 }
+
+/* footer */
+
+footer.footer {
+    text-align: center;
+    background-color: rgb(95, 93, 92);
+    color: rgb(245, 241, 245);
+    border-top: 2px solid rgba(55, 55, 252, 0.75);
+}
