@@ -25,6 +25,10 @@ nav.navbar {
     border-bottom: 2px solid rgba(55, 55, 252, 0.75);
 }
 
+main {
+    margin-bottom: 80px;
+}
+
 /* Portfolio Styles */
 
 div.portfolioImage {
