@@ -27,13 +27,22 @@ nav.navbar {
 
 /* Portfolio Styles */
 
-img.portfolioImage {
-    width: 80%;
-    z-index: 0;
+div.portfolioImage {
+    background-image: url(https://via.placeholder.com/250);
+    background-position: center;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    display: flex;
+    
 }
 
-p.text-over-img {
-    z-index: 1;
+p.text-over-image {
+    align-self: flex-end;
+    text-align: center;
 }
 
 /* footer */
