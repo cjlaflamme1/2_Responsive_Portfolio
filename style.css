@@ -86,3 +86,9 @@ footer.footer {
     color: rgb(245, 241, 245);
     border-top: 2px solid rgba(55, 55, 252, 0.75);
 }
+
+footer div a.fa {
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
