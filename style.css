@@ -15,10 +15,17 @@ body {
 nav > span.navname {
     background-color: rgba(55, 55, 252, 0.75);
     color:rgb(236, 214, 214);
+    width: 100%;
+    text-align: center;
+}
+
+nav ul.nav {
+    justify-content: flex-end;
 }
 
 nav ul li.nav-item {
     color:rgb(55, 55, 252, 0.75);
+    
 }
 
 nav.navbar {
