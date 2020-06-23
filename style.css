@@ -34,9 +34,9 @@ main {
 div.portfolioImage {
     background-image: url(https://via.placeholder.com/250);
     background-position: center;
+    background-size: 250px;
     height: 250px;
     background-repeat: no-repeat;
-    background-size: auto;
     margin-top: 10px;
     margin-bottom: 10px;
     justify-content: center;
@@ -44,9 +44,34 @@ div.portfolioImage {
     
 }
 
+div.portfolioImage1 {
+    background-image: url(./images/example_1.jpg);
+}
+
+div.portfolioImage2 {
+    background-image: url(./images/example_2.jpg);
+}
+
+div.portfolioImage3 {
+    background-image: url(./images/example_3.jpg);
+}
+
+div.portfolioImage4 {
+    background-image: url(./images/example_4.jpg);
+}
+
+div.portfolioImage5 {
+    background-image: url(./images/example_5.jpg);
+}
+
 p.text-over-image {
     align-self: flex-end;
     text-align: center;
+    background-color: rgba(55, 55, 252, 0.9);
+    width: 74%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
 }
 
 /* footer */
